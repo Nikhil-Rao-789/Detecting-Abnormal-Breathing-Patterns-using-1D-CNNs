@@ -10,7 +10,7 @@ This project focuses on detecting abnormal breathing patterns by feeding time se
 - CNN Models : This directory contains the models (.keras files), confusion matrix ("cm.npy") and a "report.txt" file containing parameters like accuracy and precision, generated while using "train_model.py" (note - the code saves the models in a generic directory called "Models")
 - CNN-LSTM models : This directory contains the models (.keras files), confusion matrix ("cm_lstm.npy") and a "report.txt" file containing parameters like accuracy and precision, generated while using "train_conv_lstm_model.py" (note - the code saves the models in a generic directory called "Models")
 - images : This directory contains images used in the readme.md file
-- report.pdf : This file contains the gist of this project
+- Nikhil-Rao-Project-Report.pdf : This file contains the gist of this project and a detailed explanation of the same.
 
 ### Phases in the Project -
 ### Phase 1 : Data Cleaning and Visualization
